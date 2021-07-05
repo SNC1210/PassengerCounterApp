@@ -215,6 +215,7 @@ console.log(lapsCompleted)
 // change the count-el in the HTML to reflect the new count
 
 */
+/*
 //code for thre given question
 
 // camelCase
@@ -228,7 +229,7 @@ function increment() {
     count = count + 1
     countEl.innerText = count
 }
-
+*/
 /*
 let countEl = document.getElementById("count-el")
 let count = 0
